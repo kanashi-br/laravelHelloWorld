@@ -165,7 +165,7 @@
       <hr>
       <br>
       <div class="col-lg-offset-2 col-lg-8">
-        <img class="img-responsive" src="img/iphone.png" alt="">
+        <img class="img-responsive" src="assets/img/iphone.png" alt="">
       </div>
       <!-- col -->
     </div>
@@ -194,7 +194,7 @@
       <br>
       <br>
       <div class="col-lg-3 centered">
-        <img class="img img-circle" src="img/team/team01.jpg" height="120px" width="120px" alt="">
+        <img class="img img-circle" src="assets/img/team/team01.jpg" height="120px" width="120px" alt="">
         <br>
         <h4><b>Mike Arney</b></h4>
         <a href="#" class="icon icon-twitter"></a>
@@ -205,7 +205,7 @@
       <!-- col-lg-3 -->
 
       <div class="col-lg-3 centered">
-        <img class="img img-circle" src="img/team/team02.jpg" height="120px" width="120px" alt="">
+        <img class="img img-circle" src="assets/img/team/team02.jpg" height="120px" width="120px" alt="">
         <br>
         <h4><b>Tim Davies</b></h4>
         <a href="#" class="icon icon-twitter"></a>
@@ -216,7 +216,7 @@
       <!-- col-lg-3 -->
 
       <div class="col-lg-3 centered">
-        <img class="img img-circle" src="img/team/team03.jpg" height="120px" width="120px" alt="">
+        <img class="img img-circle" src="assets/img/team/team03.jpg" height="120px" width="120px" alt="">
         <br>
         <h4><b>Michele Lampa</b></h4>
         <a href="#" class="icon icon-twitter"></a>
@@ -227,7 +227,7 @@
       <!-- col-lg-3 -->
 
       <div class="col-lg-3 centered">
-        <img class="img img-circle" src="img/team/team04.jpg" height="120px" width="120px" alt="">
+        <img class="img img-circle" src="assets/img/team/team04.jpg" height="120px" width="120px" alt="">
         <br>
         <h4><b>Jaye Smith</b></h4>
         <a href="#" class="icon icon-twitter"></a>
@@ -247,7 +247,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 centered">
-          <img class="img-responsive" src="img/macbook.png" align="">
+          <img class="img-responsive" src="assets/img/macbook.png" align="">
         </div>
         <div class="col-lg-4">
           <h2>We Are Hiring!</h2>
@@ -291,7 +291,7 @@
         <div class="col-md-4 ">
           <div class="grid mask">
             <figure>
-              <img class="img-responsive" src="img/portfolio/folio01.jpg" alt="">
+              <img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt="">
               <figcaption>
                 <h5>DASHBOARD</h5>
                 <a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">Take a Look</a>
@@ -316,7 +316,7 @@
                 <h4 class="modal-title">Project Title</h4>
               </div>
               <div class="modal-body">
-                <p><img class="img-responsive" src="img/portfolio/folio01.jpg" alt=""></p>
+                <p><img class="img-responsive" src="assets/img/portfolio/folio01.jpg" alt=""></p>
                 <p>This project was crafted for Some Name corp. Detail here a little about your job requirements and the tools used. Tell about the challenges faced and what you and your team did to solve it.</p>
                 <p><b><a href="#">Visit Site</a></b></p>
               </div>
@@ -335,7 +335,7 @@
         <div class="col-md-4">
           <div class="grid mask">
             <figure>
-              <img class="img-responsive" src="img/portfolio/folio02.jpg" alt="">
+              <img class="img-responsive" src="assets/img/portfolio/folio02.jpg" alt="">
               <figcaption>
                 <h5>UI DESIGN</h5>
                 <a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">Take a Look</a>
@@ -352,7 +352,7 @@
         <div class="col-md-4">
           <div class="grid mask">
             <figure>
-              <img class="img-responsive" src="img/portfolio/folio03.jpg" alt="">
+              <img class="img-responsive" src="assets/img/portfolio/folio03.jpg" alt="">
               <figcaption>
                 <h5>ANDROID PAGE</h5>
                 <a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">Take a Look</a>
@@ -372,7 +372,7 @@
         <div class="col-md-4 ">
           <div class="grid mask">
             <figure>
-              <img class="img-responsive" src="img/portfolio/folio04.jpg" alt="">
+              <img class="img-responsive" src="assets/img/portfolio/folio04.jpg" alt="">
               <figcaption>
                 <h5>PROFILE</h5>
                 <a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">Take a Look</a>
@@ -389,7 +389,7 @@
         <div class="col-md-4">
           <div class="grid mask">
             <figure>
-              <img class="img-responsive" src="img/portfolio/folio05.jpg" alt="">
+              <img class="img-responsive" src="assets/img/portfolio/folio05.jpg" alt="">
               <figcaption>
                 <h5>TWITTER STATUS</h5>
                 <a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">Take a Look</a>
@@ -406,7 +406,7 @@
         <div class="col-md-4">
           <div class="grid mask">
             <figure>
-              <img class="img-responsive" src="img/portfolio/folio06.jpg" alt="">
+              <img class="img-responsive" src="assets/img/portfolio/folio06.jpg" alt="">
               <figcaption>
                 <h5>PHONE MOCKUP</h5>
                 <a data-toggle="modal" href="#myModal" class="btn btn-primary btn-lg">Take a Look</a>
@@ -454,7 +454,7 @@
       <div class="col-lg-6 blog-bg">
         <div class="col-lg-4 centered">
           <br>
-          <p><img class="img img-circle" src="img/team/team04.jpg" width="60px" height="60px"></p>
+          <p><img class="img img-circle" src="assets/img/team/team04.jpg" width="60px" height="60px"></p>
           <h4>Jaye Smith</h4>
           <h5>Published Aug 30.</h5>
         </div>
@@ -471,7 +471,7 @@
       <div class="col-lg-6 blog-bg">
         <div class="col-lg-4 centered">
           <br>
-          <p><img class="img img-circle" src="img/team/team03.jpg" width="60px" height="60px"></p>
+          <p><img class="img img-circle" src="assets/img/team/team03.jpg" width="60px" height="60px"></p>
           <h4>Michele Lampa</h4>
           <h5>Published Aug 28.</h5>
         </div>
@@ -612,13 +612,13 @@
 <!-- / copyrights -->
 
 <!-- JavaScript Libraries -->
-<script src="lib/jquery/jquery.min.js"></script>
-<script src="lib/bootstrap/js/bootstrap.min.js"></script>
-<script src="lib/php-mail-form/validate.js"></script>
-<script src="lib/easing/easing.min.js"></script>
+<script src="assets/lib/jquery/jquery.min.js"></script>
+<script src="assets/lib/bootstrap/js/bootstrap.min.js"></script>
+<script src="assets/lib/php-mail-form/validate.js"></script>
+<script src="assets/lib/easing/easing.min.js"></script>
 
 <!-- Template Main Javascript File -->
-<script src="js/main.js"></script>
+<script src="assets/js/main.js"></script>
 
 </body>
 </html>
