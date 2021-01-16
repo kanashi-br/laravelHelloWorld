@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\web\HomeController;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -12,7 +14,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', 'App\Http\Controllers\web\HomeController@home');
+Route::get('/', [HomeController::class, 'home']);
+//maneira equivalente
+//Route::get('/', 'App\Http\Controllers\web\HomeController@home');
 
 Route::get('/home', function(){
     return '<h1>Aqui é sua casa!</h1> Você tem uma cozinha no /kitchen , pq não vai dar uma olhada? ';
