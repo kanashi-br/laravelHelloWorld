@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Shield - Bootstrap Agency Template</title>
+  <!--Shield - Bootstrap Agency Template-->
+  <title>Animarlison</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -65,7 +66,7 @@
     <header class="clearfix">
       <h1><span class="icon icon-shield"></span></h1>
       <p>Bem vindo ao meu site</p>
-      <p>Usando template da internet para teste</p>
+      <p>sobre animes, games e wallpapers</p>
     </header>
   </div>
   <!-- /headerwrap -->
@@ -131,9 +132,9 @@
   <!-- ==== SECTION DIVIDER1 -->
   <section class="section-divider textdivider divider1">
     <div class="container">
-      <h1>DESIGN EXPAND BOUNDARIES</h1>
+      <h1>OS MELHORES ANIMES</h1>
       <hr>
-      <p>To achieve real change, we have to expand boundaries. Because the Wild West of what-could-be is unexplored but rife with opportunity.</p>
+      <p>Aqui você encontra os melhores animes de romance, ação e aventura ou até escolar.</p>
     </div>
     <!-- container -->
   </section>
@@ -145,7 +146,7 @@
     <br>
     <br>
     <div class="row">
-      <h2 class="centered">ONE BRAND, ONE VOICE.</h2>
+      <h2 class="centered">UM ANIME, UMA VOZ.</h2></h2>
       <hr>
       <br>
       <div class="col-lg-offset-2 col-lg-8">
@@ -161,11 +162,11 @@
     <!-- row -->
 
     <div class="row">
-      <h2 class="centered">MOBILE FIRST THINKING, ALWAYS.</h2>
+      <h2 class="centered">QUE TAL UM PRIMEIRO ANIME?</h2>
       <hr>
       <br>
       <div class="col-lg-offset-2 col-lg-8">
-        <img class="img-responsive" src="assets/img/iphone.png" alt="">
+        <img class="img-responsive" src="assets/img/taiga.png" alt="Taiga em um tigre">
       </div>
       <!-- col -->
     </div>
@@ -472,7 +473,7 @@
         <div class="col-lg-4 centered">
           <br>
           <p><img class="img img-circle" src="assets/img/team/team03.jpg" width="60px" height="60px"></p>
-          <h4>Michele Lampa</h4>
+          <h4>Mich Lampa</h4>
           <h5>Published Aug 28.</h5>
         </div>
         <div class="col-lg-8 blog-content">
