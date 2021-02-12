@@ -102,25 +102,19 @@
   <div class="container" id="about" name="about">
     <div class="row white">
       <br>
-      <h1 class="centered">Um pouco sobre como fiz isso</h1>
+      <h1 class="centered">Um pouco sobre Toradora!</h1>
       <hr>
 
       <div class="col-lg-6">
-        <p>Te falta maturidade, mas um dia você, pequeno gafanhoto, saberá de tudo. </p>
+        <p></p>
+        <iframe width="532" height="299" src="https://www.youtube.com/embed/CzOEMJSQRZU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
       <!-- col-lg-6 -->
 
       <div class="col-lg-6">
-        <p>Um texto com um lindo poema para você: <br>
-        No alto daquele cume, plantei uma roseira <br>
-        O vento no cume bate, a rosa no cume cheira <br>
-        Quando vem a chuva fina, salpicos no cume caem <br>
-        Formigas no cume entram, abelhas do cume me saem <br>
-        Quando cai a chuva grossa, a água do cume desce <br>
-        O barro do cume escorre, o mato no cume cresce <br>
-        Então quando cessa a chuva, no cume volta a alegria <br>
-        Pois torna a brilhar de novo, o sol que no cume ardia <br>
-        Autores: Falcao / Platus Cunha
+        <br>
+        <h3>Sinopse: </h3>
+        <p>A obra original de Yuyuko Takemiya (Golden Time) conta a história de Taiga Aisaka e Ryuuji Takasu, dois colegas de classe que mal se conhecem e vivem em pé de gerra, até que um dia Taiga resolve declarar o seu amor por Yusaku Kitamura, melhor amigo de Takasu, colocando uma carta em sua mochila ao final da aula, mas por ironia do destino Taiga acaba errando o lugar de Kitamura e a carta vai parar nas mãos de Ryuuji. Quando descobre o erro ela fica desesperada e resolve pegar a carta de volta e, depois de muita confusão, descobre que Ryuuji está interessado em Minori Kushieda, melhor amiga de Taiga. Os dois fazem uma trégua e um acordo para que se ajudem a conquistar os seus objetivos amorosos.
         </p>
       </div>
       <!-- col-lg-6 -->
@@ -160,7 +154,9 @@
       <!-- col-lg -->
     </div>
     <!-- row -->
-
+    <div class="centered">
+        <iframe width="672" height="378" src="https://www.youtube.com/embed/sNuG1Csfmgg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
     <div class="row">
       <h2 class="centered">QUE TAL UM PRIMEIRO ANIME?</h2>
       <hr>
