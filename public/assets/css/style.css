@@ -382,13 +382,13 @@ a:before, a:after {
   color: #daa520;
   font-family: 'Times New Roman', Times, serif;
   font-size: 40px;
-  filter: drop-shadow(2px 2px 3px black);
+  filter: drop-shadow(2px 2px 3px rgb(75, 20, 121));
 }
 .textdivider p {
   color: black;
   font-family: 'Times New Roman', Times, serif;
   font-size: 25px;
-  filter: drop-shadow(2px 2px 3px);
+  filter: drop-shadow(2px 2px 3px white);
 }
 
 /* Section Dividers Backgrounds */

@@ -178,9 +178,9 @@
   <!-- ==== SECTION DIVIDER2 -->
   <section class="section-divider textdivider divider2">
     <div class="container">
-      <h1>DESIGN IS AN INTERACTION</h1>
+      <h1>A AÇÃO NUNCA PARA!</h1>
       <hr>
-      <p>To develop a deeper and more meaningful connection with consumers, we believe design must invite them to take part in the conversation.</p>
+      <p>Animes de ação que te fazem suar frio com tanta tensão.</p>
     </div>
     <!-- container -->
   </section>
