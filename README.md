@@ -4,6 +4,6 @@
 * _Nada nela é de minha autoria!_
 
 ## anime-app-lara (Eng ver.)
-* This is a project made for practice the use of templates for laravel framework, as also as deploying on Heroku.
+* This is a project made for training the use of templates in laravel framework, as also its deploying on Heroku.
 * This page was created with Shield template by TemplateMag.
 * _Nothing in it is my authorship!_
